@@ -10,7 +10,7 @@ Add this line to your application's Gemfile:
 
 And then execute:
 
-    $ bundle install
+    $ bundle
 
 Or install it yourself as:
 
