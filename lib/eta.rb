@@ -1,4 +1,5 @@
 require "eta/version"
+require "eta/timer"
 require "childprocess"
 require "io/console"
 require "json"
